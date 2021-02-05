@@ -6,4 +6,4 @@ It is connected to a backend that stores the websites and returns a number to sh
 The .env file is not uploaded here. 
 Create a .env file and add the mongoDB key to it.
 
-
+.env is used to store confidential information so that it is not visible in the source code.
