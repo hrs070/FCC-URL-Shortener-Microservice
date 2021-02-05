@@ -7,3 +7,4 @@ The .env file is not uploaded here.
 Create a .env file and add the mongoDB key to it.
 
 afabfyae
+hjFDYAKV
