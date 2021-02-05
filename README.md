@@ -6,7 +6,4 @@ It is connected to a backend that stores the websites and returns a number to sh
 The .env file is not uploaded here. 
 Create a .env file and add the mongoDB key to it.
 
-afabfyae
-hjFDYAKV
-JHAVWJDABAD
-kjabshfbsd
+
